@@ -18,4 +18,4 @@ Questão 3 - Dário e Xerxes
 
 https://olimpiada.ic.unicamp.br/pratique/pu/2017/f2/xerxes/
 
-Obrigado pela sua atenção!
+## Obrigado pela sua atenção!
